@@ -8528,7 +8528,7 @@ a{
  .witrfm_area {
      background-repeat: no-repeat;
      background-position: center center;
-     background-image: url(../images/blog9.jpg);
+     background-image: url(../images/background-footer.jpg);
      background-size: cover;
      position:relative;
 }
@@ -9363,7 +9363,6 @@ a{
 }
  .em-service2.sleft .em-service-icon{
      margin-right:20px;
-     margin-top: 10px;
 }
  .em-service2.smiddle {
 }
@@ -11380,14 +11379,13 @@ a{
  .features_bg .em-service2.sleft.all_color_service {
      padding:43px 40px 30px 40px;
      background: #fff;
-     border-right: 1px solid #dddd;
+     /* border-right: 1px solid #dddd; */
 }
  .features_bg .em-service2.sleft.all_color_service.border_lf{
      border-right:none;
 }
  .features_bg .em-service-icon img {
-     margin-bottom: 15px;
-     width: 80px;
+     width: 100px;
 }
  .features_bg .all_color_service p {
      font-family: "Barlow Condensed", Sans-serif;
@@ -11468,7 +11466,7 @@ a{
      border-radius:0px;
 }
  .solutech_team_area{
-     padding:0px 0px 50px;
+     padding: 95px 0px 70px;
 }
  .em-team.all_color_team {
      margin-bottom: 30px;
