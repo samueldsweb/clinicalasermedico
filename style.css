@@ -1,5 +1,5 @@
 /*
-Teamplate Name: solutech 
+Teamplate Name: clinicalasermedicos 
 Version: 1.0
 */
 /* Type your CSS Here */
@@ -12,4 +12,22 @@ Version: 1.0
     margin: 0 auto 0.75rem!important;
     width: 5rem;
     border-bottom: 2px solid #0c5adb1F;    
+}
+
+.btn-whatsapp {
+    position: fixed;
+    width: 50px;
+    right: 60px;
+    bottom: 90px;
+    z-index: 2147483647;
+}
+
+@media (max-width: 580px) {
+    .btn-whatsapp {
+        position: fixed;
+        width: 40px;
+        right: 26px;
+        bottom: 80px;
+        z-index: 2147483647;
+    }
 }
